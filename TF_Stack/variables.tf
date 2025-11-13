@@ -17,7 +17,6 @@ variable "fingerprint" {
   default = "78:a9:41:aa:e6:74:87:51:48:63:2d:c0:bd:6e:78:34"
 }
 variable "key_file" {
-  default = "/Users/kumvijak/.oci/oci_api_key.pem"
 }
 variable "home_region" {
   default = "us-ashburn-1"
